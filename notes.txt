@@ -1,5 +1,6 @@
 Project Notes
 Build Command:
 ng build --configuration=production --base-href “https://oursignofhumanity.github.io/oursignofhumanity.github.io/”
+https://medium.com/@swarnakishore/deploying-angular-cli-project-to-github-pages-db49246598a1
 Url:
 https://medium.com/@swarnakishore/deploying-angular-cli-project-to-github-pages-db49246598a1
