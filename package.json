@@ -1,0 +1,19 @@
+{
+  "name": "sign-of-humanity",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oursignofhumanity/oursignofhumanity.github.io.git"
+  },
+  "author": "Michael Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oursignofhumanity/oursignofhumanity.github.io/issues"
+  },
+  "homepage": "https://github.com/oursignofhumanity/oursignofhumanity.github.io#readme"
+}
